@@ -247,6 +247,23 @@
 - [Synesthesia Suit] GOOD DESIGN AWARD 2016
 
 
+## Publications
+
+- [Hideaki Tai and Toshiyuki Murakami: “A Control of Two Wheels Driven Redundant Mobile Manipulator Using A Monocular Camera System”, International Journal of Intelligent Systems Technologies and Applications, Vol. 8, No. 1-4, pp. 361-381, 2010.](https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2010.030217)
+
+## International Conferences
+
+- [Oral] Hideaki Tai and Toshiyuki Murakami: [“A Control of Two Wheels Driven Redundant Mobile Manipulator Using A Monocular Camera System”](https://ieeexplore.ieee.org/document/4749561), Proceedings of the 15th International Conference on Mechatronics and Machine Vision in Practice 2008 (M2VIP’08), pp. 368-373, Auckland, New Zealand, December 2-4, 2008.
+- [Oral] Hideaki Tai and Toshiyuki Murakami: [“An Approach to Bilateral Control Strategy for Nonidentical Master-Slave System”](https://ieeexplore.ieee.org/document/5415082), Proceedings of the 35th Annual Conference of IEEE Industrial Electronics Society (IECON’09), pp.4209-4214, Porto, Portugal, 3-5 Nov. 2009.
+- [Oral] Hideaki Tai and Toshiyuki Murakami: [“Equivalent Mass Matrix based Bilateral Control for Multi-Degrees-of-Freedom Systems”](https://ieeexplore.ieee.org/document/5464107), Proceedings of the 11th International Workshop on Advanced Motion Control (AMC2010-Nagaoka), March 21-24, 2010 (to be presented).
+
+
+## Domestic Conferences
+
+- [Oral] 田井秀昭, 村上俊之: “異構造異自由度を考慮した作業空間バイラテラル制御の一提案法”, 電気学会産業計測制御研究会資料, Vol. IIC-09, No.112-126, pp. 19-24, March 10, 2009.
+- [Oral] 田井秀昭, 村上俊之: “作業空間における力センサレスバイラテラル制御系の考察”, 第27回日本ロボット学会学術講演会予稿集（DVD-ROM), 3H2-04, September 15-17, 2009.
+
+
 
 ## About
 
