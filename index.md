@@ -1,3 +1,5 @@
+[<img src="https://img.youtube.com/vi/68a-8sRLhck/0.jpg" width="100%">](https://youtu.be/68a-8sRLhck)
+
 [<img src="https://img.youtube.com/vi/7zYm0yM_7Vw/0.jpg" width="100%">](https://youtu.be/7zYm0yM_7Vw?t=41)
 
 [<img src="https://img.youtube.com/vi/iakXIZgXzDw/0.jpg" width="100%">](https://youtu.be/iakXIZgXzDw)
@@ -16,6 +18,24 @@
 
 
 ## Works
+
+[2023.12] [さくらCHORUS @ Shibuya Sakura Stage](https://flowplateaux.com/work/sakura-chorus-shibuya-sakura-stage/)
+- Time-synced original wireless lighting devices
+- type: `original device`, `light`
+- role: `circuit`, `firmware`
+- tech: `arduino`
+
+[2022.08] [Nosaj Thing x Daito Manabe light sync device by Rhizomatiks](https://rhizomatiks.com/work/light-sync-device_w-osaka/) [\[movie\]](https://www.youtube.com/watch?v=Ta3G4R5mXUE)
+- Time-synced original lighting devices
+- type: `original device`, `portable`, `light`
+- role: `circuit`, `firmware`
+- tech: `arduino`
+
+[2022.03] [ANREALAGE AUTUMN-WINTER 2022-2023 COLLECTION](https://rhizomatiks.com/work/anrealage-aw2022-2023/) [\[movie\]](https://youtu.be/UVuiPRKEbik?si=97zgGJoBj_HsqT1X&t=240)
+- Time-synced original lighting devices
+- type: `original device`, `wearable`, `light`
+- role: `circuit`, `firmware`
+- tech: `arduino`
 
 [2021.12] [Nissan FUTURES / Innovation Walk](https://youtu.be/9nR-FU6WxJg)
 - ROS-based Omni-Wheeled Mobile Robot with Object Detection / SLAM / Navigation
